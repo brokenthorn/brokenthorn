@@ -4,13 +4,21 @@ Hi there! 👋
 
 My name is Paul.
 
-I'm a software developer with a strong interest in software engineering best practices (TDD, BDD, CI/CD, pair programming, code reviews, trunk-based development, clean code, etc.) and software architecture (DDD, VSA, Clean, etc.)
+I'm a software developer with a growth mindset and a strong interest in software engineering, best practices (TDD, BDD, CI/CD, pair programming, code reviews, trunk-based development, clean code, etc.) and software architecture and patterns (Clean, DDD, VSA, SoA, Microservices, Event Sourcing, CQRS, etc.)
 
-My main skills are around the Microsoft .NET developer platform and Microsoft SQL Server (ASP.NET, MVC, Razor, Blazor, Entity Framework Core, C#, LINQ, WPF, XAML, T-SQL etc.) and my main technology stack is full-stack with .NET and ASP.NET MVC, API, Razor Pages and Blazor. I also like React development with TypeScript, but I prefer to reuse as much code as possible and I write most code in C#, so if you didn't realize already, I'm a huge fan of Blazor.
+My main skills are with the Microsoft .NET developer platform, Azure and SQL Server.
 
-Here's one of my favorite quotes:\
-“Asking experts to do boring and repetitive, and yet technically demanding tasks is the most certain way of ensuring human error that we can think of, short of sleep deprivation, or inebriation.”\
-― David Farley, Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+My stack for building web applications at the moment is based on .NET Core 3.1+ with C#, ASP.NET Core technologies and a few libraries (e.g., Web API, SignalR, MVC, Entity Framework, LINQ, Razor, Blazor Server/WASM, xUnit, etc.)
+
+I'm also interested in extending my go-to tech stack in the future with the addition of Go and Rust.
+
+For frontend work I prefer Blazor but I'm also comfortable working with React and TypeScript.
+
+
+Here's a quote I like from someone that I consider to be one of the greatest teachers of software engineering and software craftsmanship of our time:
+
+“Asking experts to do boring and repetitive, and yet technically demanding tasks is the most certain way of ensuring human error that we can think of, short of sleep deprivation, or inebriation.”
+― David Farley, of Continuous Delivery fame.
 
 ### Social links
 
