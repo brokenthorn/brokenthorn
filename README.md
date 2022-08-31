@@ -5,7 +5,8 @@ Hi! 👋
 My name is Paul.
 
 I'm a software developer, working mostly with .NET, C#, SQL, React.js, Node.js, TypeScript and JavaScript.
-My driving goals in tech are to learn every day, try out new things, improve my code and my technical skills and always have fun doing what I love.
+
+My driving goals in tech are to learn every day, deliver value with modern technologies, try out new things, improve my code and my technical skills and always have fun doing what I love.
 
 ### Social links
 
