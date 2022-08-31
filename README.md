@@ -1,16 +1,17 @@
 # ℹ About me
 
-Hi there! 👋
+Hi! 👋
 
 My name is Paul.
 
-I'm a software developer interested in creating impact, both at work, where I need to feel that what I'm doing has a positive impact on people and the business, and also outside of work, because I need to feel that I'm contributing to achieving a more sustainable future for the world.
+I'm a software developer, working mostly with .NET, C#, SQL, React.js, Node.js, TypeScript and JavaScript.
+My driving goals in tech are to learn every day, try out new things, improve my code and my technical skills and always have fun doing what I love.
 
 ### Social links
 
 - [LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/)
 - [Twitter](https://twitter.com/brokenthorn)
-- [Dev blog](http://paulsebastian.codes/)
+- [Blog](http://paulsebastian.codes/)
 
 ## 📈 Stats by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
