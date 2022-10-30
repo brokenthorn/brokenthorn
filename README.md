@@ -8,4 +8,4 @@ I am [product-minded](https://blog.pragmaticengineer.com/the-product-minded-engi
 
 I love to learn from others and share with others what I've learned. I strongly believe that the best software engineers learn continously by reading, writing and being ready to always challenge what they already know or think they understand.
 
-If you want connect with me, you can do it on LinkedIn ([in/paulsebastianmanole](https://www.linkedin.com/in/paulsebastianmanole/)) or Twitter ([@brokenthorn](https://twitter.com/brokenthorn)). You can also check out my dev blog at [paulsebastian.codes](http://paulsebastian.codes/).
+If you want to connect with me, you can do it on LinkedIn ([in/paulsebastianmanole](https://www.linkedin.com/in/paulsebastianmanole/)) or Twitter ([@brokenthorn](https://twitter.com/brokenthorn)). You can also check out my dev blog at [paulsebastian.codes](http://paulsebastian.codes/).
