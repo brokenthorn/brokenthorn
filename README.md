@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Welcome to my GitHub page! My name is Paul-Sebastian, or simply Paul. I'm a software engineer born in Romania and father of 2 girls 😊.
+Welcome to my GitHub page! My name is Paul-Sebastian, or simply Paul. I'm a software engineer born in Romania and a father of 2 girls 😊.
 
 I would describe myself as a generalist, but the tools I like to use most often are .NET, Node.js, React.js, C#, TypeScript and SQL.
 
