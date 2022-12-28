@@ -1,11 +1,5 @@
-### Hi! 👋
+### Hi! 👋 Welcome to my GitHub page!
 
-Welcome to my GitHub page! My name is Paul-Sebastian, or simply Paul. I'm a software engineer born in Romania and a father of 2 girls 😊.
+My name is Paul. I'm a software engineer from Romania mostly focused on full-stack web applications development.
 
-I would describe myself as a generalist, but the tools I like to use most often are .NET, Node.js, React.js, C#, TypeScript and SQL.
-
-I am [product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/) and very pragmatic. I value simplicity, organization by feature, cleanliness and readability in source code.
-
-I love to learn from others and share with others what I've learned. I strongly believe that the best software engineers learn continuously by reading, writing and being ready to always challenge what they already know or think they understand.
-
-If you want to connect with me, you can do it on LinkedIn ([in/paulsebastianmanole](https://www.linkedin.com/in/paulsebastianmanole/)) or Twitter ([@brokenthorn](https://twitter.com/brokenthorn)). You can also check out my dev blog at [paulsebastian.codes](http://paulsebastian.codes/).
+If you want to connect with me or chat, you can find me on [LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/) or [Twitter: @brokenthorn](https://twitter.com/brokenthorn). You can check out my dev blog at [paulsebastian.codes](http://paulsebastian.codes/).
