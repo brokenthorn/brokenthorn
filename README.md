@@ -1,7 +1,26 @@
 ### Hi there! 👋
 
-My name is Paul. I'm a self-taught software engineer from Romania.
+My name is Paul. I'm a self-taught software engineer/developer from Romania.
 
-#### A short story about myself
+I love FP (functional programming) and writing robust and simple to understand code, in statically typed languages (mostly).
+I'm nost against OOP, just against object inheritance and complex hierachies that lead to highly coupled code.
 
-I got my first computer in 1995. It was running MS-DOS 6.0 and only came with a handfull of games. There was no shareware scene in Romania, so I didn't waste too much time playing games. The first game I ever played was Loom, by LucasArts. Adventure and story-telling games are still my favorite type of game... Anyway, around a year later, I discovered Microsoft BASIC and thanks to a book on MS-BASIC that my father bought me, I wrote my first lines of code in 1996 and simply fell in love with the idea of being able to create things that run inside of a computer.
+Interfaces are good though. I prefer traits though. (Rust got this right!)
+
+I like writing in Rust, C#, TypeScript and a bit of F#, and I'm also quite interested in ReScript lately.
+
+I hate SCRUM with a passion, an love the original principles of the Agile Manifesto, not what we have come to interpret them as today.
+
+I admire XP and Lean thinking.
+
+I'm trying to do more TDD to get into the habbit of designing first, so I can build higher quality solutions that last longer.
+
+I think CI is a must, and CD comes naturally after that.
+
+There shouldn't be a separation between frontend and backend teams, and feature work should be done in stream aligned teams, not waited to be passed on from one team to another, like on an assembly line.
+
+Software development is a team sport, but it's not a sprint, like SCRUM would love to have you think, it's a marathon!
+
+Quality needs to be built in, and matters more than speed!
+Speed only gets you your initial customers.
+Quality gets you to keep your customers, and attract more!
