@@ -3,9 +3,9 @@
 My name is Paul. I'm a self-taught software engineer/developer from Romania.
 
 I love FP (functional programming) and writing robust and simple to understand code, in statically typed languages (mostly).
-I'm nost against OOP, just against object inheritance and complex hierachies that lead to highly coupled code.
+I'm not against OOP, just against object inheritance and complex hierachies that lead to highly coupled code.
 
-Interfaces are good though. I prefer traits though. (Rust got this right!)
+Interfaces are good though I prefer traits. (Rust got this right!)
 
 I like writing in Rust, C#, TypeScript and a bit of F#, and I'm also quite interested in ReScript lately.
 
