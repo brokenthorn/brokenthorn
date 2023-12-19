@@ -1,26 +1,13 @@
-### Hi there! 👋
+# About me
 
-My name is Paul. I'm a self-taught software engineer/developer from Romania.
+Software Engineer doing mostly full-stack web applications development (backend & frontend) using C#, .Net, Rust, TypeScript, SQL and React JS.
 
-I love FP (functional programming) and writing robust and simple to understand code, in statically typed languages (mostly).
-I'm not against OOP, just against object inheritance and complex hierachies that lead to highly coupled code.
+I have a keen interest in FP (functional programming) and software architecture.
+My practices include TDD, DDD, OOP, FP, CI, CD, TBD.
 
-Interfaces are good, though I prefer traits more. (Rust got this right!)
+I learned programming years before I started doing it professionally.
 
-I like writing in Rust, C#, TypeScript and a bit of F#, and I'm also quite interested in ReScript lately.
+QBasic was the first programming language I wrote, running on MS-DOS 6.
+I learned it by myself as best as I could back in 1995 without a mentor, from a book I found in my parent's home library that was filled mostly with fiction and electronics almanacs. I preferred the almanacs.
 
-I hate SCRUM with a passion, an love the original principles of the Agile Manifesto, not what we have come to interpret them as today.
-
-I admire XP and Lean thinking.
-
-I'm trying to do more TDD to get into the habbit of designing first, so I can build higher quality solutions that last longer.
-
-I think CI is a must, and CD comes naturally after that.
-
-There shouldn't be a separation between frontend and backend teams, and feature work should be done in stream aligned teams, not waited to be passed on from one team to another, like on an assembly line.
-
-Software development is a team sport, but it's not a sprint, like SCRUM would love to have you think, it's a marathon!
-
-Quality needs to be built in, and matters more than speed!
-Speed only gets you your initial customers.
-Quality gets you to keep your customers, and attract more!
+Taught myself programming ever since through online courses, books, mentors, but most importantly, practice.
