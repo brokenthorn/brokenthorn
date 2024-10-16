@@ -1,8 +1,23 @@
-Hello visitor,
+## Hi there, I'm Paul 👋
 
-Welcome to my GitHub profile page.
+### I'm a Software Engineer with expertise in
 
-If you want to know more about me or you want to send me a message, visit one of my other online profiles:
+- C# and .NET
+- TypeScript
+- JavaScript
+- React
+- Node
+- and building full-stack web applications in general
+
+My current passion and interests revolve around functional programming using:
+
+- [Effect-TS](https://github.com/Effect-TS/effect)
+- [F#](https://fsharp.org/)
+- [OCaml](https://ocaml.org)
+- [ReasonML](https://reasonml.github.io/)
+- [Rust](https://www.rust-lang.org/)
+
+### Links
 
 - X (Twitter): [@brokenthorn](https://x.com/brokenthorn)
 - LinkedIn: [in/paulsebastianmanole](https://linkedin.com/in/paulsebastianmanole/)
