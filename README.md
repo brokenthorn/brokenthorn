@@ -1,24 +1,21 @@
-## Hi there, I'm Paul 👋
+## Hi there 👋
 
-I'm a software engineer working remotely, currently at Thoughtworks.
+I'm Paul, a software engineer working remote, currently at Thoughtworks.
 
-### A little bit about me
+My focus is on fullstack business applications. I strive to be an [expert generalist](https://martinfowler.com/articles/expert-generalist.html).
 
-I focus on fullstack cloud web applications, and I have worked primarily with .NET, SQL, Node, TypeScript and React, practicing XP, TDD, BDD, DDD, and more.
+I am a big fan of functional programming and functional programming languages (but also OOP, if it's written correctly).
 
-I'm a functional programming nerd and I like to incorporate functional programming principles in all code I write, regardless of language.
-
-Some of my favorite technologies are:
+Some of my favorite tools and languages:
 
 - [Rust](https://www.rust-lang.org/)
-- [Effect-TS](https://github.com/Effect-TS/effect)
+- [Effect for TypeScript](https://github.com/Effect-TS/effect)
 - [F#](https://fsharp.org/)
 - [OCaml](https://ocaml.org)
 - [Gleam](https://gleam.run/)
 
 ### Links
 
-- [My personal GitHub profile](https://github.com/brokenthorn/)
-- [Add me on LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/)
-- [My Blog](https://brokenthorn.github.io/)
-- X (ex-Twitter): [@brokenthorn](https://x.com/brokenthorn)
+- My Blog: [https://brokenthorn.github.io/](https://brokenthorn.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/paulsebastianmanole/](https://www.linkedin.com/in/paulsebastianmanole/)
+- Twitter/X: [@brokenthorn](https://x.com/brokenthorn)
