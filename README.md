@@ -1,21 +1,11 @@
-## Hi there 👋
+# Hello!
 
-I'm Paul, a software engineer working remote, currently at Thoughtworks.
+I’m Paul, a Software Engineer and Consultant at Thoughtworks, where I partner with clients to design and deliver full-stack cloud-native applications and solutions.
 
-My focus is on fullstack business applications. I strive to be an [expert generalist](https://martinfowler.com/articles/expert-generalist.html).
+I have a diverse toolset—from .NET, SQL, Docker, Kubernetes, TypeScript, and React to C#, F#, Rust, and beyond. I also have a particular love for functional programming, in a pragmatic sense, favoring F# or OCaml, but also Rust, Gleam and Elixir (though I've not written production code in all these yet).
 
-I am a big fan of functional programming and functional programming languages (but also OOP, if it's written correctly).
+I try hard to be an [expert-generalist](https://martinfowler.com/articles/expert-generalist.html) instead of focusing on one thing or a small set of things, such a technology, an industry, a programming language or a paradigm.
 
-Some of my favorite tools and languages:
-
-- [Rust](https://www.rust-lang.org/)
-- [Effect for TypeScript](https://github.com/Effect-TS/effect)
-- [F#](https://fsharp.org/)
-- [OCaml](https://ocaml.org)
-- [Gleam](https://gleam.run/)
-
-### Links
-
-- My Blog: [https://brokenthorn.github.io/](https://brokenthorn.github.io/)
 - LinkedIn: [https://www.linkedin.com/in/paulsebastianmanole/](https://www.linkedin.com/in/paulsebastianmanole/)
-- Twitter/X: [@brokenthorn](https://x.com/brokenthorn)
+- Twitter (X): [@brokenthorn](https://x.com/brokenthorn)
+- Blog: [https://brokenthorn.github.io/](https://brokenthorn.github.io/)
