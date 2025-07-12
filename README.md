@@ -6,6 +6,6 @@ I have a diverse toolset—from .NET, SQL, Docker, Kubernetes, TypeScript, and R
 
 I try hard to be an [expert-generalist](https://martinfowler.com/articles/expert-generalist.html) instead of focusing on one thing or a small set of things, such a technology, an industry, a programming language or a paradigm.
 
-- LinkedIn: [https://www.linkedin.com/in/paulsebastianmanole/](https://www.linkedin.com/in/paulsebastianmanole/)
+- LinkedIn: [in/paulsebastianmanole](https://www.linkedin.com/in/paulsebastianmanole/)
 - Twitter (X): [@brokenthorn](https://x.com/brokenthorn)
-- Blog: [https://brokenthorn.github.io/](https://brokenthorn.github.io/)
+- Blog: [brokenthorn.github.io](https://brokenthorn.github.io/)
