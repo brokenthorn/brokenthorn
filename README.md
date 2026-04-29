@@ -1,11 +1,23 @@
-# Hello!
+# Hi, I'm Paul
 
-I’m Paul, a Software Engineer and Consultant at Thoughtworks, where I partner with clients to design and deliver full-stack cloud-native applications and solutions.
+Pragmatic software engineer focused on building business applications that prioritize actual value and modular monoliths. Self-taught since age seven with 15+ years of IT experience. Deeply committed to the craft, eXtreme Programming principles, and mentoring teams to deliver secure, high-quality software through evolutionary architecture.
 
-I have a diverse toolset—from .NET, SQL, Docker, Kubernetes, TypeScript, and React to C#, F#, Rust, and beyond. I also have a particular love for functional programming, in a pragmatic sense, favoring F# or OCaml, but also Rust, Gleam and Elixir (though I've not written production code in all these yet).
+### Technical Expertise
 
-I try hard to be an [expert-generalist](https://martinfowler.com/articles/expert-generalist.html) instead of focusing on one thing or a small set of things, such a technology, an industry, a programming language or a paradigm.
+* Languages & Runtimes: F#, C#, .NET, Rust, TypeScript (strict), Node.js, Deno, Bun
+* Architecture: Modular Monoliths, Vertical Slice, Hexagonal, Clean Architecture, CQRS, DDD
+* Data: SQL, NoSQL, KV Stores (MSSQL, PostgreSQL, MongoDB)
+* Frontend: React.js
+* DevOps & Infrastructure: GitOps, Kubernetes, ArgoCD, GitHub Actions
+* Process: XP, TDD, ATDD/BDD, Tidy First, Evolutionary Architecture
 
-- LinkedIn: [in/paulsebastianmanole](https://www.linkedin.com/in/paulsebastianmanole/)
-- Twitter (X): [@brokenthorn](https://x.com/brokenthorn)
-- Blog: [brokenthorn.github.io](https://brokenthorn.github.io/)
+### Philosophy
+
+* Simplicity over over-engineered microservices.
+* CI/CD as a first priority for high velocity.
+* "Tidy First" refactoring and specialized testing to untangle legacy systems.
+* Functional programming advocate and performance enthusiast.
+* Solving complex business problems without unnecessary complexity.
+
+---
+[LinkedIn](https://www.linkedin.com/in/brokenthorn) | [Blog](https://brokenthorn.github.io)
