@@ -1,23 +1,13 @@
-# Hi, I'm Paul
+# Hi
 
-Pragmatic software engineer focused on building business applications that prioritize actual value and modular monoliths. Self-taught since age seven with 15+ years of IT experience. Deeply committed to the craft, eXtreme Programming principles, and mentoring teams to deliver secure, high-quality software through evolutionary architecture.
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHzkw2p_vtwvw/profile-displayphoto-crop_800_800/B4DZ9mAVm6GwAI-/0/1784122793188?e=1787184000&v=beta&t=P3h-Bm5KND-zfwkagbZkTcfOSesuU2dUan1Weaa1zGw" width="150" alt="profile photo" />
 
-### Technical Expertise
+My name is Paul. I'm a self-taught, pragmatic, senior software engineer working at Thoughtworks as a consultant for various clients from industries such as healthcare, pharma, automotive or manufacturing.
 
-* Languages & Runtimes: F#, C#, .NET, Rust, TypeScript (strict), Node.js, Deno, Bun
-* Architecture: Modular Monoliths, Vertical Slice, Hexagonal, Clean Architecture, CQRS, DDD
-* Data: SQL, NoSQL, KV Stores (MSSQL, PostgreSQL, MongoDB)
-* Frontend: React.js
-* DevOps & Infrastructure: GitOps, Kubernetes, ArgoCD, GitHub Actions
-* Process: XP, TDD, ATDD/BDD, Tidy First, Evolutionary Architecture
+I work mostly on backends but I also do some frontend work, mostly in React.
 
-### Philosophy
+My favorite programming languages are Rust, F#, OCaml and TypeScript. (yes, I like functional programming)
 
-* Simplicity over over-engineered microservices.
-* CI/CD as a first priority for high velocity.
-* "Tidy First" refactoring and specialized testing to untangle legacy systems.
-* Functional programming advocate and performance enthusiast.
-* Solving complex business problems without unnecessary complexity.
+I am most confident with C# (.NET) and TypeScript, though.
 
----
-[LinkedIn](https://www.linkedin.com/in/brokenthorn) | [Blog](https://brokenthorn.github.io)
+[Add me on LinkedIn](https://www.linkedin.com/in/brokenthorn)
