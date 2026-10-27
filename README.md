@@ -1,13 +1,13 @@
-# Hi
+Hi. I'm Paul. I write code at [Thoughtworks](https://www.thoughtworks.com/). This is my GitHub profile.
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHzkw2p_vtwvw/profile-displayphoto-crop_800_800/B4DZ9mAVm6GwAI-/0/1784122793188?e=1787184000&v=beta&t=P3h-Bm5KND-zfwkagbZkTcfOSesuU2dUan1Weaa1zGw" width="150" alt="profile photo" />
+Do not expect to find any earth-shattering open-source contributions here; my day job drains my soul enough, so feel free to wander around the digital tumbleweeds.
 
-My name is Paul. I'm a self-taught, pragmatic, senior software engineer working at Thoughtworks as a consultant for various clients from industries such as healthcare, pharma, automotive or manufacturing.
+### **The Technical Rundown**
 
-I work mostly on backends but I also do some frontend work, mostly in React.
+- **What I get paid to write:** **C#** and **TypeScript** (because rent is unfortunately non-negotiable).
+- **What I actually want to write:** **Rust**, **Zig**, **Gleam**, and **OCaml** (or **F#** when .NET holds a gun to my head).
+- **Reality check:** Out of that dream lineup, I only actually use **Rust** in personal projects. Turns out, having an ecosystem that doesn't consist of three blog posts and a prayer actually matters.
 
-My favorite programming languages are Rust, F#, OCaml and TypeScript. (yes, I like functional programming)
+As for **TypeScript**, I use it extensively. Not because I’m enamored with its eccentric type system, but because building for the Web without it is a descent into madness. Sure, there are exotic alternatives like ReScript, ReasonML, or Gleam-to-JS compilers—right up until you have to write FFI glue code and realize you’ve added one too many layers of indirection just to feel special.
 
-I am most confident with C# (.NET) and TypeScript, though.
-
-[Add me on LinkedIn](https://www.linkedin.com/in/brokenthorn)
+- [LinkedIn](https://www.linkedin.com/in/paulsebastianmanole/) (If you must).
